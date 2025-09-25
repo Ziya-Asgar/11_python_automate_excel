@@ -22,4 +22,5 @@ This is a session to practice manipulating Excel files with Python. The session 
 
 Here is the [OpenPyXl documentation](https://openpyxl.readthedocs.io/en/stable/) to get more information about various methods of working with an Excel file using Python.
 
-The session could be coded along following this link: [Automate Excel With Python - Python Excel Tutorial (OpenPyXL)](https://www.youtube.com/watch?v=7YS6YDQKFh0&list=PLgLicvxhyL9VNtg07lQ0RB7wfHZ6j2CRt&index=8)
+The session could be coded along following this link, although my code and file is a bit different:  
+[Automate Excel With Python - Python Excel Tutorial (OpenPyXL)](https://www.youtube.com/watch?v=7YS6YDQKFh0&list=PLgLicvxhyL9VNtg07lQ0RB7wfHZ6j2CRt&index=8)
