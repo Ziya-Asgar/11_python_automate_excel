@@ -1,6 +1,6 @@
 ## Notes
 
-This is a session to practice manipulating Excel files with Python. The session contains:
+This is a session to practice controlling Excel files with Python. The session contains:
 
 - importing specific parts of the `openpyxl` module,
 - loading an Excel workbook with the `load_workbook` function,
@@ -17,7 +17,7 @@ This is a session to practice manipulating Excel files with Python. The session 
 - merging and unmerging cells,
 - insert and deleting rows and columns,
 - cutting and pasting cells,
-- manipulating the styling in a sheet,
+- controlling the styling in a sheet,
 - finally, taking data from a python dictionary and writing them to a new Excel file.
 
 Here is the [OpenPyXl documentation](https://openpyxl.readthedocs.io/en/stable/) to get more information about various methods of working with an Excel file using Python.
