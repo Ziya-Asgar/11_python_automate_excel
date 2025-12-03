@@ -1,4 +1,4 @@
-## Notes
+# Notes
 
 This is a session to practice controlling Excel files with Python. The session contains:
 
@@ -22,5 +22,5 @@ This is a session to practice controlling Excel files with Python. The session c
 
 Here is the [OpenPyXl documentation](https://openpyxl.readthedocs.io/en/stable/) to get more information about various methods of working with an Excel file using Python.
 
-The session could be coded along following this link, although my code and file is a bit different:  
+This project follows along with the video from the provided link, though my implementation and file structure slightly differs:  
 [Automate Excel With Python - Python Excel Tutorial (OpenPyXL)](https://www.youtube.com/watch?v=7YS6YDQKFh0&list=PLgLicvxhyL9VNtg07lQ0RB7wfHZ6j2CRt&index=8)
